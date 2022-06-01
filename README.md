@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m Aman
+- ### 👋 Hi, I’m Aman
 - 👀 I’m interested in ... ML, Data Science, Data Analytics
 - 🌱 I’m currently learning Python, JS, ML, SQL, AWS Data Warehousing... and much more
 - 💞️ I’m looking to collaborate on with fellow ML enthusiasts
